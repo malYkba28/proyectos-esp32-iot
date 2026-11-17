@@ -1,0 +1,13 @@
+# Fotos de rostros: nunca se suben
+06-cerradura-reconocimiento-facial/pc/caras_conocidas/*
+!06-cerradura-reconocimiento-facial/pc/caras_conocidas/.gitkeep
+
+# Modelos pesados (se descargan aparte)
+*.onnx
+*.pt
+
+# PlatformIO / Python
+.pio/
+.venv/
+venv/
+__pycache__/
